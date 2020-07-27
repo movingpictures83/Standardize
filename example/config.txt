@@ -1,0 +1,2 @@
+Prefix plugins/Standardize/example
+Plugin Standardize inputfile parameters.txt outputfile output.transformed.csv
